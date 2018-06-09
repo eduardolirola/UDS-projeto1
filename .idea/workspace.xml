@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb300dea-af91-4a12-b1b8-ef1da56f3dc4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/usage.statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/usage.statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/funcao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/funcao.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/funcao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state relative-caret-position="225">
+              <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -25,7 +27,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="225">
               <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
             </state>
           </provider>
@@ -48,8 +50,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Conversornumeros.java" />
         <option value="$PROJECT_DIR$/src/Exercicio4.java" />
-        <option value="$PROJECT_DIR$/src/funcao.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/funcao.java" />
       </list>
     </option>
   </component>
@@ -80,13 +82,13 @@
     <factor id="categoricalFeature:recursion" />
     <factor id="completionFinishedType">
       <dailyData date="9-6-2018">
-        <observation name="cancelled" value="7,0" />
+        <observation name="cancelled" value="22,0" />
       </dailyData>
     </factor>
     <factor id="completionType" />
     <factor id="completionUsage">
       <dailyData date="9-6-2018">
-        <observation name="count" value="7,0" />
+        <observation name="count" value="22,0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity" />
@@ -283,14 +285,14 @@
     <entry file="file://$PROJECT_DIR$/src/Exercicio4.java" />
     <entry file="file://$PROJECT_DIR$/src/funcao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        <state relative-caret-position="225">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="225">
           <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
         </state>
       </provider>

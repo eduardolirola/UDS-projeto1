@@ -37,7 +37,7 @@ public class funcao {
      Scanner scanner = new Scanner(System.in);
         System.out.println("Digite o numero:");
         int retorno = scanner.nextInt();
-        System.out.println("O numero escolhido foi: " + retorno);
+        System.out.println("O Numero Escolhido Foi: " + retorno);
         System.out.println(converteInteiroParaRomano(retorno));
 
 

@@ -2,7 +2,7 @@ class Main {
     public static void main(String[]args)
 
     {
-        String nome="eduardo";
+        String nome="Eduardo";
         String sobrenome="Lirola";
         Integer idade= 30;
         Boolean sexoFeminino= false;
@@ -19,7 +19,7 @@ class Main {
         }
 
         else if (idade>18 && idade<=30) {
-            System.out.println("Novão Ainda");
+            System.out.println("Ótima idade");
         }
 
         else if (idade>30) {
