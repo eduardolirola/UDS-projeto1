@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb300dea-af91-4a12-b1b8-ef1da56f3dc4" name="Default" comment="" />
+    <list default="true" id="bb300dea-af91-4a12-b1b8-ef1da56f3dc4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/funcao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            <state relative-caret-position="450">
+              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -35,10 +46,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Conversornumeros.java" />
         <option value="$PROJECT_DIR$/src/Exercicio4.java" />
         <option value="$PROJECT_DIR$/src/funcao.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -49,6 +60,59 @@
     <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter" />
+    <factor id="binaryFeature:liftShorterClasses" />
+    <factor id="binaryFeature:middleMatching" />
+    <factor id="binaryFeature:nonGeneric" />
+    <factor id="binaryFeature:prox_inResolveScope" />
+    <factor id="binaryFeature:prox_openedInEditor" />
+    <factor id="binaryFeature:prox_sameDirectory" />
+    <factor id="binaryFeature:prox_sameLogicalRoot" />
+    <factor id="binaryFeature:prox_sdkOrLibrary" />
+    <factor id="binaryFeature:templates" />
+    <factor id="categoricalFeature:accessible" />
+    <factor id="categoricalFeature:expectedType" />
+    <factor id="categoricalFeature:kind" />
+    <factor id="categoricalFeature:prox_groovyReferenceListWeigher" />
+    <factor id="categoricalFeature:prox_javaInheritance" />
+    <factor id="categoricalFeature:prox_referenceList" />
+    <factor id="categoricalFeature:recursion" />
+    <factor id="completionFinishedType">
+      <dailyData date="9-6-2018">
+        <observation name="cancelled" value="7,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType" />
+    <factor id="completionUsage">
+      <dailyData date="9-6-2018">
+        <observation name="count" value="7,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity" />
+    <factor id="doubleFeature:grouping" />
+    <factor id="doubleFeature:mostUsed" />
+    <factor id="doubleFeature:nameEnd" />
+    <factor id="doubleFeature:position" />
+    <factor id="doubleFeature:prefix" />
+    <factor id="doubleFeature:priority" />
+    <factor id="doubleFeature:prox_explicitlyImported" />
+    <factor id="doubleFeature:prox_knownElement" />
+    <factor id="doubleFeature:prox_sameModule" />
+    <factor id="doubleFeature:prox_samePsiMember" />
+    <factor id="doubleFeature:query_length" />
+    <factor id="doubleFeature:result_length" />
+    <factor id="doubleFeature:sameWords" />
+    <factor id="doubleFeature:shorter" />
+    <factor id="doubleFeature:simple" />
+    <factor id="doubleFeature:sorter" />
+    <factor id="doubleFeature:statics" />
+    <factor id="doubleFeature:stats" />
+    <factor id="itemPosition" />
+    <factor id="mnemonicsUsage" />
+    <factor id="prefixLength" />
+    <factor id="timeBetweenTyping" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -215,19 +279,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Conversornumeros.java" />
     <entry file="file://$PROJECT_DIR$/src/Exercicio4.java" />
     <entry file="file://$PROJECT_DIR$/src/funcao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state relative-caret-position="450">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
         </state>
       </provider>
     </entry>
